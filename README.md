@@ -9,4 +9,4 @@ base de datos MNIST
 
 Aquí se encuentra la [memoria de la práctica][link_pdf_viewer] donde se describe todo el proceso y los resultados obtenidos.
 
-[link_pdf_viewer]:https://docs.google.com/viewer?url=$https://github.com/ibe16/IC-Keras/blob/main/Memoria%20Redes%20Neuronales.pdf
+[link_pdf_viewer]:https://docs.google.com/viewer?url=https://github.com/ibe16/IC-Keras/raw/main/Memoria%20Redes%20Neuronales.pdf
